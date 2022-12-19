@@ -1,7 +1,7 @@
 ---
 name: Tweet Issue
 about: Write you tweet here
-title: "[Please change the title]"
+title: "Tweet: [Change this]"
 labels: ''
 assignees: ''
 description: "null"
